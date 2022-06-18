@@ -11,7 +11,7 @@ If you'd like to see a more complete implementation including authentication and
 - Cognito authentication
 - SignalR real-time integration
 
-The key client side implementation is in the file `web/src/SignalRclient.ts` which is invoked in `web/src/main.ts`
+The key client side implementation is in the file `[web/src/SignalRclient.ts](https://github.com/CharlieDigital/azure-signalr/blob/main/web/src/SignalRClient.ts)` which is invoked in `web/src/main.ts`
 
 ## Running the Code
 
